@@ -1,0 +1,15 @@
+C:\Users\andre\source\repos\RBXInjector\RBXInjector\bin\Release\RBXInjector.exe.config
+C:\Users\andre\source\repos\RBXInjector\RBXInjector\bin\Release\RBXInjector.exe
+C:\Users\andre\source\repos\RBXInjector\RBXInjector\bin\Release\RBXInjector.pdb
+C:\Users\andre\source\repos\RBXInjector\RBXInjector\obj\Release\RBXInjector.csproj.AssemblyReference.cache
+C:\Users\andre\source\repos\RBXInjector\RBXInjector\obj\Release\MainWindow.g.cs
+C:\Users\andre\source\repos\RBXInjector\RBXInjector\obj\Release\App.g.cs
+C:\Users\andre\source\repos\RBXInjector\RBXInjector\obj\Release\RBXInjector_MarkupCompile.cache
+C:\Users\andre\source\repos\RBXInjector\RBXInjector\obj\Release\RBXInjector_MarkupCompile.lref
+C:\Users\andre\source\repos\RBXInjector\RBXInjector\obj\Release\MainWindow.baml
+C:\Users\andre\source\repos\RBXInjector\RBXInjector\obj\Release\RBXInjector.g.resources
+C:\Users\andre\source\repos\RBXInjector\RBXInjector\obj\Release\RBXInjector.Properties.Resources.resources
+C:\Users\andre\source\repos\RBXInjector\RBXInjector\obj\Release\RBXInjector.csproj.GenerateResource.cache
+C:\Users\andre\source\repos\RBXInjector\RBXInjector\obj\Release\RBXInjector.csproj.CoreCompileInputs.cache
+C:\Users\andre\source\repos\RBXInjector\RBXInjector\obj\Release\RBXInjector.exe
+C:\Users\andre\source\repos\RBXInjector\RBXInjector\obj\Release\RBXInjector.pdb
