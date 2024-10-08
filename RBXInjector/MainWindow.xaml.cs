@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Diagnostics;
 using System.Linq;
@@ -146,7 +146,8 @@ namespace RBXInjector
 
                     string arg1 = selectedDllPath;
                     string arg2 = winTrustCallback.Text;
-                    string arguments = $"{arg1} {arg2}";
+                    string arg3 = selectedPID.ToString();
+                    string arguments = $"{arg1} {arg2} {arg3}";
 
                     ProcessStartInfo startInfo = new ProcessStartInfo
                     {
