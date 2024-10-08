@@ -6,7 +6,7 @@
 #include <cstdlib>
 
 // compile this in a seperate project
-// i saw a random guy on unknonw cheats with this shit i think dyn or someone leaked this cus i wrote it myself!!!
+// i saw a random guy on unknonw cheats with this shit i think cable or someone leaked this cus i wrote it myself!!!
 
 DWORD GetProcessIdByName(const wchar_t* processName) {
     DWORD processID = 0;
